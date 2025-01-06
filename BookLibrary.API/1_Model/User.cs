@@ -8,6 +8,9 @@ public class User
     public required string Name { get; set; }
     public string? Email { get; set; }
     public required string Role { get; set; }
+
+    //Books
+    
     public ICollection<Borrowing>? Borrowings { get; set; }
     
 }

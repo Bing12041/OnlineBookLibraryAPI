@@ -5210,11 +5210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\Bingrun_Zheng\\Projects\\BookLibrary\\BookLibrary.API\\BookLibrary.API.csproj",
+      "projectUniqueName": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\BookLibrary\\BookLibrary.API\\BookLibrary.API.csproj",
       "projectName": "BookLibrary.API",
-      "projectPath": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\Bingrun_Zheng\\Projects\\BookLibrary\\BookLibrary.API\\BookLibrary.API.csproj",
+      "projectPath": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\BookLibrary\\BookLibrary.API\\BookLibrary.API.csproj",
       "packagesPath": "C:\\Users\\bingr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\Bingrun_Zheng\\Projects\\BookLibrary\\BookLibrary.API\\obj\\",
+      "outputPath": "C:\\Users\\bingr\\OneDrive\\Documentos\\Code\\Revature\\.Net\\BookLibrary\\BookLibrary.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bingr\\AppData\\Roaming\\NuGet\\NuGet.Config"
